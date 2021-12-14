@@ -35,3 +35,5 @@ Three environment variables _(ie: $env:variableName)_ must be furnished, either 
 This script was written by seagull for Datto RMM and the wider MSP Community. It may be freely copied, edited and redistributed provided credits to Datto, seagull & a link to this GitHub repo remain in the comments.  
 YARA is a tool by the VirusTotal project. The definitions used here were created by Florian Roth.  
 www.datto.com/rmm
+
+Forked for updates for my enviroment. 
